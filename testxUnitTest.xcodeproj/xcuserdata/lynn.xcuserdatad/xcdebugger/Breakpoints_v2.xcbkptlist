@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "testxUnitTestTests/testxUnitTestTests.m"
+            timestampString = "577117715.162549"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "-testExample"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[testxUnitTestTests testExample]"
+                  moduleName = "testxUnitTestTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lynn/learning/coding/testxUnitTest/testxUnitTestTests/testxUnitTestTests.m"
+                  timestampString = "577117703.642669"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "134">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[testxUnitTestTests testExample]"
+                  moduleName = "testxUnitTestTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lynn/learning/coding/testxUnitTest/testxUnitTestTests/testxUnitTestTests.m"
+                  timestampString = "577117703.6450551"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "183">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[testxUnitTestTests testExample]"
+                  moduleName = "testxUnitTestTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lynn/learning/coding/testxUnitTest/testxUnitTestTests/testxUnitTestTests.m"
+                  timestampString = "577117703.6470571"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "880">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[testxUnitTestTests testExample]"
+                  moduleName = "testxUnitTestTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lynn/learning/coding/testxUnitTest/testxUnitTestTests/testxUnitTestTests.m"
+                  timestampString = "577117703.648903"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "936">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[testxUnitTestTests testExample]"
+                  moduleName = "testxUnitTestTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lynn/learning/coding/testxUnitTest/testxUnitTestTests/testxUnitTestTests.m"
+                  timestampString = "577117703.6507421"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "1045">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
